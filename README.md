@@ -22,9 +22,7 @@ gian@github
 -------------------------
 🏫 Computer Science student
 🌟 Main languages: Python, Dart, JavaScript
-🚩 Interested in Cyber Security
-💻 Total commits: {{ COMMITS }}
-⭐ Total stars gained: {{ STARS }}
+🚩 Interested in Code, Network and Cyber Security
 ```
 
 <!--
@@ -58,3 +56,5 @@ CATching bugs in code...
 [bug] .*' /  .*' ; .*`- +'  `*' 
       `*-*   `*-*  `*-*'
 ```
+
+last update: 16/09/2024
